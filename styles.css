@@ -1,0 +1,31 @@
+.bg-red {
+	background-color: red;
+}
+
+.bg-blue {
+	background-color: blue;
+}
+
+#darth-vader {
+	font-size: 1.2rem;
+}
+
+#luke {
+	font-style: italic;
+}
+
+.dashed-border {
+	border: 1px dashed black;
+}
+
+.text-spacing {
+	letter-spacing: 1.2rem;
+}
+
+.text-align-center {
+	text-align: center;
+}
+
+.text-uppercase {
+	text-transform: uppercase;
+}
